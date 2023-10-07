@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+.no-focus-outline:focus,
+.no-hover-outline:hover {
+  outline: none;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #808080;
+}
