@@ -1,9 +1,7 @@
 import { useState } from "react";
+import { toDoItem } from "../redux/toDoList/reducer";
 
-interface toDoItemProps {
-  id: number;
-  name: string;
-  completed: boolean;
+interface toDoItemProps extends toDoItem {
   toggleCompleteToDo: (id: number) => void;
   updateToDo: (id: number, name: string) => void;
   deleteToDo: (id: number) => void;
