@@ -18,5 +18,5 @@ A To-Do App using `Typescript`, `React.js` amd `Vite`. It uses `Tailwind CSS` fo
 
 ```TypeScript
 npm install
-npm run start
+npm run dev
 ```
