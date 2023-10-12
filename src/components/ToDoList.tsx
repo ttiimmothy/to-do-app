@@ -55,8 +55,8 @@ export function ToDoList() {
       {toDoItems.length === 0 ? (
         <div>No todos found</div>
       ) : (
-        toDoItems.map((toDoItem) => {
-          return (
+        toDoItems.map((toDoItem, index) => {
+          return toDoItem.id >= 0 ? (
             <ToDoItem
               key={toDoItem.id}
               id={toDoItem.id}
@@ -66,6 +66,8 @@ export function ToDoList() {
               updateToDo={updateToDo}
               deleteToDo={deleteToDo}
             />
+          ) : (
+            <div key={index}></div>
           );
         })
       )}
