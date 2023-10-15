@@ -12,7 +12,7 @@ export function AddToDoItem() {
   const addToDo = () => {
     if (text !== "") {
       const newToDoItem = {
-        id: toDoItems.length,
+        id: Date.now(),
         name: text,
         completed: false,
       };
