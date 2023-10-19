@@ -1,5 +1,5 @@
-# To-do App
-A To-Do App using `Typescript`, `React.js` amd `Vite`. It uses `Tailwind CSS` for simplifying CSS usage and `@redux/toolkit` for managing state.
+# To-do Application
+A To-Do Application using `Typescript`, `React.js` amd `Vite`. It uses `Tailwind CSS` for simplifying CSS usage and `@redux/toolkit` for managing state.
 
 ## 🎯 Features
 
