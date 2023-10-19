@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Avenir",
+    "immer",
+    "njsproj",
+    "ntvs",
+    "reduxjs",
+    "tailwindcss",
+    "todos"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
