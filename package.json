@@ -3,11 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< Updated upstream
-  "homepage": "https://ttiimmothy.github.io/to-do-application",
-=======
   "homepage": "https://ttiimmothy.github.io/to-do-application/",
->>>>>>> Stashed changes
   "scripts": {
     "dev": "vite --port 5176",
     "build": "tsc && vite build",
