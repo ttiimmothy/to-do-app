@@ -27,4 +27,4 @@ npm run dev
 
 ## License
 
-To-Do Application is license under GNU General Public License v3.0.
+To-Do Application is licensed under GNU General Public License v3.0.
