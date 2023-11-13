@@ -1,4 +1,4 @@
-# To-do Application
+# To-Do Application
 [![ci](https://github.com/ttiimmothy/to-do-application/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/to-do-application/actions/workflows/ci.yml)
 [![cd](https://github.com/ttiimmothy/to-do-application/actions/workflows/cd.yml/badge.svg)](https://github.com/ttiimmothy/to-do-application/actions/workflows/cd.yml)
 [![pages-build-deployment](https://github.com/ttiimmothy/to-do-application/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ttiimmothy/to-do-application/actions/workflows/pages/pages-build-deployment)
@@ -24,3 +24,7 @@ A To-Do Application using `Typescript`, `React.js` amd `Vite`. It uses `Tailwind
 npm install
 npm run dev
 ```
+
+## License
+
+To-Do Application is license under GNU General Public License v3.0.
